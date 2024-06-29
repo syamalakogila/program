@@ -8,7 +8,10 @@ object assignment19 {
         print("new customer")
 
 
+
+
   }
+  println("helloword")
 
 
 }
